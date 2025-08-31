@@ -1,4 +1,4 @@
-![Banner2](https://user-images.githubusercontent.com/69577043/187034972-2d581b04-25c7-417b-83c3-18cb6b2416e2.png)
+<img width="1500" height="500" alt="github-banner" src="https://github.com/user-attachments/assets/d976f645-0b7c-4010-9285-7d45090aab38" />
 
 
 I'm an aspiring web developer based in Switzerland, deeply engrossed in the world of coding. My journey involves crafting dynamic websites using HTML, CSS, and JavaScript. I'm not just about the front end; I delve into the backend world with C# and leverage technologies like Umbraco CMS and HubSpot CMS to simplify content management for clients, creating modules and templates to elevate user experiences.
