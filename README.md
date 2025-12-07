@@ -3,5 +3,5 @@
 Software Developer from Switzerland 🇨🇭  
 Next.js | TypeScript | React | Tailwind CSS | .NET
 
-📚 Studying Business Informatics  
+📚 Studying Business Information Technology
 🚀 Building clean and efficient applications
